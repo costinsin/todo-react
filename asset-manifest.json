@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/todo-react/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/todo-react/static/js/main.e87f28f8.chunk.js",
-    "main.js.map": "/todo-react/static/js/main.e87f28f8.chunk.js.map",
-    "runtime-main.js": "/todo-react/static/js/runtime-main.3274c09f.js",
-    "runtime-main.js.map": "/todo-react/static/js/runtime-main.3274c09f.js.map",
-    "static/js/2.f101a3aa.chunk.js": "/todo-react/static/js/2.f101a3aa.chunk.js",
-    "static/js/2.f101a3aa.chunk.js.map": "/todo-react/static/js/2.f101a3aa.chunk.js.map",
-    "static/js/3.c88549ee.chunk.js": "/todo-react/static/js/3.c88549ee.chunk.js",
-    "static/js/3.c88549ee.chunk.js.map": "/todo-react/static/js/3.c88549ee.chunk.js.map",
+    "main.css": "/todo-react/static/css/main.e9085ed6.chunk.css",
+    "main.js": "/todo-react/static/js/main.6755e3de.chunk.js",
+    "main.js.map": "/todo-react/static/js/main.6755e3de.chunk.js.map",
+    "runtime-main.js": "/todo-react/static/js/runtime-main.cb862134.js",
+    "runtime-main.js.map": "/todo-react/static/js/runtime-main.cb862134.js.map",
+    "static/js/2.10e4d2aa.chunk.js": "/todo-react/static/js/2.10e4d2aa.chunk.js",
+    "static/js/2.10e4d2aa.chunk.js.map": "/todo-react/static/js/2.10e4d2aa.chunk.js.map",
+    "static/js/3.04b7d14a.chunk.js": "/todo-react/static/js/3.04b7d14a.chunk.js",
+    "static/js/3.04b7d14a.chunk.js.map": "/todo-react/static/js/3.04b7d14a.chunk.js.map",
     "index.html": "/todo-react/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/todo-react/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.f101a3aa.chunk.js.LICENSE.txt": "/todo-react/static/js/2.f101a3aa.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/todo-react/static/media/logo.6ce24c58.svg"
+    "static/css/main.e9085ed6.chunk.css.map": "/todo-react/static/css/main.e9085ed6.chunk.css.map",
+    "static/js/2.10e4d2aa.chunk.js.LICENSE.txt": "/todo-react/static/js/2.10e4d2aa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/todo-react/static/media/background.ae517fce.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3274c09f.js",
-    "static/js/2.f101a3aa.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.e87f28f8.chunk.js"
+    "static/js/runtime-main.cb862134.js",
+    "static/js/2.10e4d2aa.chunk.js",
+    "static/css/main.e9085ed6.chunk.css",
+    "static/js/main.6755e3de.chunk.js"
   ]
 }
