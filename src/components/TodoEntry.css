@@ -1,0 +1,26 @@
+.entry {
+    padding: 10px 20px;
+    margin: 5px auto;
+    height: 30px;
+    width: 500px;
+    background: rgba(86, 171, 188, .7);
+    list-style-type: none;
+    text-align: left;
+    display: flex;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.text {
+    color: black;
+    margin: auto 0;
+}
+
+.remove-button {
+    float: right;
+}
+
+.remove-button {
+    background-color: #ff9d77;
+    border-radius: 10px;
+}
